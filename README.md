@@ -1,5 +1,6 @@
 # Guide de démarrage de Python pour la FRC
 Guide de démarrage rapide pour utiliser robotpy dans la FRC.
+
 Par Martin Rioux, mentor de Rikitik (3996)
 
 L'objectif de ce git est d'avoir un guide concis pour un démarrage rapide, ainsi que des aides mémoires, tutoriels et patrons de projet. N'hésitez pas à rejoindre le [discord](https://discord.gg/FWm2rZQWXE) (non officiel à la FRC et RobotPy) pour du support et suggérer des améliorations!
