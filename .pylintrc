@@ -1,0 +1,12 @@
+[MASTER]
+jobs=4 #number of processes to use
+
+# [BASIC]
+# good-names=nameOfYourProject #names to be considered ok
+
+[TYPECHECK]
+generated-members=ujson.*, requests.*, pysftp.*
+
+[pre-commit-hook]
+disable=W,C,R
+enable=W0201
